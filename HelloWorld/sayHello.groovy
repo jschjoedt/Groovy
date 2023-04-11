@@ -1,3 +1,10 @@
+// Add java documentation to the class
+/**
+ * SayIt class
+ * @author John Doe von coPilot
+ * @version 1.0
+ * @since 1.0
+ */
 class SayIt {
 
     void sayHello() {
