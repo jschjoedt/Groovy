@@ -5,7 +5,6 @@ class SayIt {
     }
 
 }
-
 SayIt si = new SayIt()
 si.sayHello()
 
